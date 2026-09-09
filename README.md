@@ -22,3 +22,13 @@ Represent forensic objects as nodes:
 - Logon sessions
 - Emails or cloud objects
 - Plaso events
+
+The system produces:
+- Supporting evidence
+- Contradicting evidence
+- Missing evidence
+- Confidence score
+- Alternative explanations
+- Exact event provenance
+
+This is more useful—and safer—than simply asking an AI model to “summarize the timeline.”
